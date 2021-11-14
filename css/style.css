@@ -295,22 +295,21 @@ main {
   background: url(../images/bg-hero3.png) fixed;
   background-size: cover;
   background-position: center;
-  height: 320px;
+  height: 170px;
 }
 
 @media (min-width: 1200px) {
   .hero-container-back {
-    height: 640px;
+    height: 650px;
   }
 }
 .hero-container {
   background: url(../images/bg-hero1.png) local, url(../images/bg-hero2.png) local;
   background-size: cover;
   background-position: center;
-  height: 400px;
+  /*background-size: 130%;*/
+  height: 170px;
   /*320*/
-  padding-top: 165px;
-  /*180*/
   width: 100%;
 }
 
