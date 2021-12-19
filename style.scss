@@ -165,7 +165,7 @@ header {
       color: #121212;  
       display: block;
       height: auto;
-      padding: 12px 10px;
+      padding: 11.5px 10px;
       font-size: 16px;
       font-weight: 700;
       position: relative;
@@ -230,11 +230,11 @@ display: none;
 }
 
 .header-nav >ul >li >ul >li a {
-  padding: 10px 10px 10px 25px;
+  padding: 12px 10px 12px 25px;
   font-weight: 400;
 
   @include pc-3 {
-    padding: 16px 60px 16px 15px;
+    padding: 16px 60px 17px 15px;
   };
 
   &:hover {
