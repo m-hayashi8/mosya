@@ -152,7 +152,7 @@ header .drawer {
   }
 }
 
-/*メインメニュー ホバー時*/
+/*メインメニュー ホバー*/
 .header-nav ul li a:hover {
   background-color: #f3fafb;
 }
